@@ -1,7 +1,7 @@
 function Home() {
     return (
       <div>
-        <h1>Welcome to our home code snippets website! And Get a Better idea About Life</h1>
+        <h1>Welcome to our home code snippets website!.!.!</h1>
         <p>
           Here you'll find a collection of helpful code snippets that you can use
           in your own projects. Feel free to browse through our collection, submit
